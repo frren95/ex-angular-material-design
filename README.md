@@ -1,27 +1,23 @@
-# AngularMaterialDesign
+# Angular Material Design
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
-## Development server
+## Course details
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+In this project-based course, learn how to get started with Angular Material. Instructor [Robby Millsap](https://www.linkedin.com/learning/angular-material-design-2/) helps to familiarize you with Material Design by covering the core concepts behind it, as well as walking through how to install Angular Material. He also shows how to work with layouts, components, and theming features to give a project a user experience overhaul.
 
-## Code scaffolding
+## Learning objectives
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- What is Material Design?
+- Adding the required modules to your project
+- Installing Angular Material
+- Adding app bars and menus
+- Creating cards
+- Separating content using tabs
+- Adding data tables
 
-## Build
+## Skills covered
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Angular CLI
+- Front-end development
+- Angular Material
